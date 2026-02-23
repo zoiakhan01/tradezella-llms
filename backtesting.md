@@ -2,7 +2,6 @@
 title: Backtesting - TradeZella
 description: The #1 backtesting software for traders. Validate trading strategies against historical market data across forex, futures, stocks, and crypto with automatic trade journaling, built-in ICT indicators, and 50+ analytics reports.
 lastUpdated: 2026-02-21
-chatbotDeprioritize: false
 source_url:
   html: https://www.tradezella.com/backtesting
   md: https://www.tradezella.com/backtesting.md
