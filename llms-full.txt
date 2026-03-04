@@ -1,0 +1,498 @@
+# TradeZella — Full Content Documentation
+
+> TradeZella is the #1 rated trading journal, analytics, and backtesting platform for retail traders. It helps traders across forex, stocks, options, futures, and crypto track, analyze, backtest, and replay their trades to build consistency and profitability. Used by 50,000+ active traders with 20B+ trades journaled. Founded in 2022 by trader Umar Ashraf.
+
+This file provides comprehensive information about TradeZella for AI systems and language models. TradeZella is a B2C SaaS platform positioned as "The Operating System for Serious Retail Traders."
+
+---
+
+## What is TradeZella?
+
+TradeZella is a web-based trading journal, analytics, and backtesting platform that helps retail traders improve their performance through data-driven insights. Unlike spreadsheets or basic journaling tools, TradeZella automatically syncs trades from 500+ brokers and prop firms, provides 50+ analytical reports, and offers backtesting, trade replay, and community features — all in one platform.
+
+Every trade imported into TradeZella, whether through broker sync, file upload, or manual entry, is automatically logged with detailed execution stats. Traders can add trade-specific notes, write daily journal entries, attach trades to strategies, and tag trades with custom labels. All journaling data feeds directly into TradeZella's analytics engine for deeper performance insights.
+
+TradeZella is also a backtesting tool. Traders can simulate strategies on historical market data going back to September 2014 — testing how a strategy would have performed under real past market conditions without risking real money. Backtested trades are automatically journaled and analyzed alongside live trades.
+
+TradeZella is NOT a brokerage. Users execute trades on their own broker and then transfer the data into TradeZella to track and analyze their trading performance. Users own their data. TradeZella does not sell or advertise user data and is 100% secure with advanced encryption.
+
+### Who is TradeZella for?
+
+- **Beginner traders** who want to develop disciplined trading habits and learn from their mistakes
+- **Intermediate traders** looking to identify patterns in their behavior and optimize their strategy
+- **Advanced/professional traders** who need comprehensive analytics across multiple accounts and strategies
+- **Prop firm traders** who need to track performance across multiple funded accounts
+- **Trading mentors and educators** who want to review students' trades and provide targeted feedback
+- **Trading communities** that want structured journaling and analytics for their members
+
+### Supported Markets
+
+TradeZella supports traders across all major asset classes:
+- Forex (FX) — currency pairs
+- Stocks and equities
+- Options (calls, puts, spreads)
+- Futures (ES, NQ, CL, etc.)
+- Cryptocurrency (BTC, ETH, etc.)
+- Commodities
+- CFDs
+
+TradeZella is used as a stocks trading journal, options trading journal, forex trading journal, crypto trading journal, futures trading journal, CFD trading journal, and currency trading journal.
+
+---
+
+## Product Suite
+
+### 1. Journaling + Analytics
+
+**URL:** https://www.tradezella.com/trading-journal
+
+The core of TradeZella. Automatically sync and log every trade, then analyze performance with powerful reports and dashboards.
+
+**Trade Logging Methods:**
+- **Automated broker sync** — Connect your broker via API for automatic trade import
+- **File upload** — Upload CSV/Excel trade history files
+- **Manual entry** — Manually log trades with full detail
+
+**Analytics & Reports (50+):**
+
+TradeZella provides over 50 performance reports covering key trading metrics. You can view your data in multiple formats — dollars, percentages, R-multiples, ticks, pips, or points — to match how you analyze your trading.
+
+- Win rate analysis
+- Profit factor calculation
+- R-multiple tracking
+- Average risk-reward ratio
+- Average win vs. average loss
+- Maximum drawdown and recovery
+- P&L by day, week, and month
+- Performance by trading setup/strategy
+- Trading behavior patterns
+- Time-of-day performance
+- Day-of-week performance
+- Instrument/ticker performance
+- Risk management metrics
+- Cumulative P&L tracking
+- Trade duration analysis
+- Setup/pattern success rates
+- Emotional state correlation (via notebook tags)
+
+**Zella Insights:**
+
+Zella Insights are AI-powered trading observations that automatically detect and highlight key patterns in your trading behavior. They flag things like revenge trading, overtrading, premature exits, and missed scaling opportunities — at both the individual trade level and the daily level. You can filter your reports by specific insights to see how certain behaviors impact your overall performance.
+
+**Customizable Dashboard:**
+
+The TradeZella dashboard is fully customizable with drag-and-drop widgets. You can add, remove, and rearrange widgets like the advanced calendar view, cumulative P&L chart, and key performance stats. You can also create and save multiple dashboard templates tailored to different analysis workflows.
+
+**Additional Features:**
+- Unlimited trading accounts connected in one place (Premium/Pro plan)
+- Light and dark theme support
+- Trade-by-trade detail views with TradingView charts
+- Zella Score — a single number that measures your overall trading health and consistency
+- Running P&L visualization showing the full story of each trade
+- MAE/MFE (Maximum Adverse/Favorable Excursion) analysis
+- Automatic commission and fee tracking for true net P&L
+- Screenshot and file attachments for visual context
+- Trade rating system to filter best and worst executions
+- Share trades with mentors, communities, or accountability partners
+- Auto-close expired options to keep the journal accurate
+- Multiple currency support for non-USD accounts
+
+### 2. Backtesting
+
+**URL:** https://www.tradezella.com/backtesting
+
+Backtesting in TradeZella is a simulation tool that lets traders test their strategies using historical market data. You can set parameters like starting balance, trading pairs, date ranges, and order types to see how a strategy would have performed under real past market conditions — all without risking real money. Over 190,000 backtesting sessions completed by users.
+
+Every trade you execute during a backtesting session is automatically logged into a separate Backtesting account in TradeZella. This means you can filter, review, and analyze your backtested trades just like your live trades — including tagging them with strategies and adding notes. You can compare how a strategy performs in simulation versus live execution and refine your approach before taking it to the markets.
+
+TradeZella's Backtesting supports granular timeframes, including tick-by-tick and second-level data for supported instruments. This allows you to simulate strategies with high-precision price movement — ideal for scalpers and intraday traders who need to test entries and exits at the most detailed level. Data availability may vary by asset class and symbol.
+
+**Features:**
+- Historical data going back to September 2014 (11+ years) across forex, futures, stocks, and crypto
+- Multi-timeframe and multi-chart analysis
+- Integrated economic calendar to gauge news impact
+- Go-To function to jump between trading sessions
+- Custom chart templates with preferred indicators and layouts
+- Regular and Extended Trading Hours data for stocks and futures
+- Partial position closing (25%, 50%, 75%, or custom)
+- Drag stop loss and take profit levels directly on the chart
+- Track simulated performance metrics, including win rate, R-multiple, and consecutive streaks
+- Built-in ICT indicators for Fair Value Gaps, liquidity sweeps, and market structure shifts
+- Prop firm challenge practice without risking capital
+- Set stop loss and profit target in PIPS, points, ticks, and percentage
+
+### 3. Trade Replay
+
+**URL:** https://www.tradezella.com/trade-replay
+
+Trade Replay is a tool in TradeZella that lets you relive your executed trades second by second using real market price movement. It reconstructs how price action unfolded during your trade — showing your entries, exits, and how your decisions played out in real time. It's designed to help traders analyze their execution, timing, and trading psychology.
+
+Trade Replay lets you replay multiple trades from the same or different symbols together in a single session. All executions from your selected trades appear in the Executions list and chart, so you can review how your trades interacted with the market simultaneously. You can also select all of your trades from a specific day and replay them together in one session, giving you a complete view of how your entire trading day unfolded.
+
+Trade Replay includes an integrated journaling panel where you can view trade stats, review your overall day performance, and add notes — all without leaving the replay. This makes it easy to capture insights about your execution and psychology in real time as you review.
+
+**Trade Replay vs. Backtesting:** Trade Replay reviews your actual executed trades to analyze real decision-making and psychology. Backtesting simulates new strategies on historical data. Use Trade Replay to learn from past trades and Backtesting to develop strategies before going live.
+
+**Additional Features:**
+- Add a second chart for multi-timeframe analysis
+- Tag mistakes or successful patterns during replay
+- Variable playback speeds
+- Jump forward to the next trading session
+- Available on Premium/Pro plan only
+
+### 4. Strategies (Playbooks)
+
+A Strategy (also called a Playbook) in TradeZella is a defined trading setup with its own specific rules, criteria, and performance tracking. When you attach trades to a Strategy, TradeZella independently tracks metrics like win rate, profit factor, and R-multiple for that setup. This helps you identify which strategies are consistently profitable and which ones are costing you money — so you can focus on what actually works.
+
+**Features:**
+- Document strategy entry/exit rules and criteria
+- Attach trades to strategies for independent performance tracking
+- Analyze and compare strategy-specific performance over time
+- Free, ready-made strategy templates from verified profitable traders inside TradeZella
+- Shared playbook templates available under the shared playbook tab
+- Unlimited strategies on Premium/Pro plan (3 on Basic/Essential)
+
+### 5. Progress Tracker
+
+The Progress Tracker is a feature in TradeZella that helps you measure and visualize how consistently you're following your trading rules. TradeZella comes with a set of automated rules that are tracked for you out of the box, and you can also create your own custom rules tailored to your specific trading plan. Over time, the Progress Tracker shows you whether you're sticking to your process or deviating from it — making it easy to build discipline, spot bad habits early, and hold yourself accountable. You can also view your Progress Tracker data directly on your dashboard for an at-a-glance overview.
+
+**Features:**
+- Automated rule tracking out of the box
+- Create custom rules tailored to your specific trading plan
+- Visualize adherence to your trading process over time
+- Spot bad habits early before they cost you money
+- Hold yourself accountable with data, not guesswork
+- View Progress Tracker data directly on your dashboard
+
+### 6. Mentor Mode (Spaces)
+
+**URL:** https://www.tradezella.com/mentor-mode
+
+Mentor Mode is a feature in TradeZella that allows trading mentors and coaches to directly view their students' accounts, and vice versa. Mentors can access their mentees' real-time trading data, execution history, journals, strategies, and performance stats — making it easy to provide personalized, data-driven feedback and coaching.
+
+To start using Mentor Mode, go to the Mentor Mode dashboard and invite your students by entering their email address or sharing an invite link. Once a student accepts, you'll see their performance data on your Mentor Dashboard and can click into a full version of their account to review their trades, journal entries, and stats in detail. Mentors can leave notes and feedback directly in the student's journal, making it easy to provide specific, trade-by-trade coaching.
+
+As a mentee, you have full control over your mentorship settings. You can choose which trading accounts to share with your mentor, decide whether to grant full access or view-only access, and revoke a mentor's access at any time from the Mentee Mode dashboard. Both the mentor and the mentee must have an active TradeZella subscription to use Mentor Mode.
+
+**Features:**
+- Two-way access — mentors view students' accounts, students can view mentors'
+- Mentors see real-time trading data, execution history, journals, strategies, and performance stats
+- Invite students via email or shareable invite link
+- Full access to mentee's Dashboard, Trade Log, Strategies, and Notebook
+- Mentors can leave notes and feedback directly in the student's journal
+- Mentees control which accounts to share and can set view-only or full access
+- Mentees can revoke mentor access at any time
+- Both mentor and mentee must have active TradeZella subscriptions
+- Trading communities can use Spaces for group analytics
+- Unlimited mentor connections on Premium/Pro plan (5 on Basic/Essential)
+- 1,000,000+ trades shared through Spaces
+
+### 7. Zella University
+
+**URL:** https://www.tradezella.com/university
+
+Free educational hub for traders at all levels.
+
+**Features:**
+- Structured courses on trading fundamentals
+- Actionable strategies and templates
+- Webinars and bootcamps (100+ hosted)
+- Market analysis tutorials
+- Platform usage guides
+
+### 8. Free Strategies Library
+
+**URL:** https://www.tradezella.com/strategies
+
+A collection of free, ready-made trading strategies from verified profitable traders. Each strategy includes detailed rules, entry/exit criteria, and can be used as a starting point for your own trading plan.
+
+**Featured Strategies:**
+- Umar Ashraf's 5-Stage Trader Framework
+- Tori Trades' Trendline Trading Strategy (price action swing trading)
+- Fabio's Auction Market Theory + LVN Strategy (volume profile futures)
+- Marco's Liquidity Trading Strategy (day trading reversals)
+- And more added regularly
+
+### 9. Community
+
+**URL:** https://www.tradezella.com/community
+
+Connect with experienced traders worldwide through a vibrant community.
+
+**Features:**
+- Discord community with active traders
+- Daily live trading sessions with experienced traders
+- Webinars and live bootcamps
+- Share trades and get feedback
+- Learn from other traders' approaches
+- Monthly challenges and rewards
+
+### 10. Prop Firm Sync (Coming Soon)
+
+**URL:** https://www.tradezella.com/prop-firm-sync
+
+One dashboard to track finances, monitor progress, and stay on top of every prop firm account. Prop Firm Sync has a dedicated landing page and uses Plaid-powered transaction syncing to automatically pull in evaluation fees, resets, activation fees, and payouts from 200+ leading prop firms.
+
+**Features:**
+- Unified dashboard for all prop firm accounts
+- Secured transaction sync via Plaid
+- Track funding, costs, payouts, and performance in one place
+- Monitor compliance with prop firm rules
+- See if you're actually net positive or negative across all prop firms
+- Connected to your TradeZella journal
+- Performance analytics across firms
+
+### 11. Zella AI (Coming Soon)
+
+Zella AI is currently in development and not yet publicly released. No dedicated page exists yet.
+
+**Planned Features:**
+- Ask questions about your trading data in natural language
+- Automated pattern detection across your trades
+- Personalized trading insights and recommendations
+- AI-powered trade analysis and coaching
+
+---
+
+## Pricing
+
+**URL:** https://www.tradezella.com/pricing
+
+TradeZella offers two paid subscription tiers, available monthly or annually. Plan names differ by billing cycle.
+
+### Monthly Billing
+
+**Basic Plan — $29/month**
+- Best for beginner traders
+- 1 trading account
+- 3 strategies (playbooks)
+- 1 GB storage
+- 5 mentor invites
+- Unlimited trade imports
+- 50+ analytics reports and dashboards
+- Backtesting with historical data back to 2014
+- Notebook and tagging
+- Zella Score and Zella Insights
+- Progress Tracker
+- Zella University access
+- NO Trade Replay
+
+**Premium Plan — $49/month**
+- Best for advanced traders
+- Everything in Basic, plus:
+- **Unlimited** trading accounts
+- **Unlimited** strategies (playbooks)
+- **Unlimited** mentor invites
+- 5 GB storage
+- Sessions-level Trade Replay
+- Seconds-level backtesting data
+- Tick-by-tick data for supported instruments
+- Multi-pair trading (up to 5)
+- Multi-chart functionality (up to 8)
+- Go-To function and economic calendar integration
+- Priority support
+
+### Annual Billing (Save $189/year on Pro)
+
+**Essential Plan — $24/month (billed $288/year)**
+- Same features as Basic (monthly)
+
+**Pro Plan — $33/month (billed $399/year)**
+- Same features as Premium (monthly)
+- Saves $189 vs. paying monthly
+
+### Important Notes
+- No free plan or free trial is currently offered
+- All subscriptions include access to 500+ broker integrations
+- A free Google Sheets trade journal template is available for those not ready to subscribe
+
+---
+
+## Supported Brokers & Integrations
+
+**URL:** https://www.tradezella.com/brokersupport
+
+TradeZella integrates with 500+ brokers and prop firms. Major supported platforms include:
+
+**Stock & Options Brokers:**
+- Interactive Brokers
+- Charles Schwab (including TD Ameritrade migration)
+- Robinhood
+- Webull
+- TradeZero
+- Tastytrade
+- And many more
+
+**Futures Brokers:**
+- NinjaTrader
+- Rithmic
+- Tradovate
+- AMP Futures
+- EdgeClear
+- And many more
+
+**Forex Brokers (via MetaTrader & others):**
+- MetaTrader 4 (MT4)
+- MetaTrader 5 (MT5)
+- cTrader
+- TradeLocker
+- MatchTrader
+- All MT4/MT5 compatible brokers (FTMO, RoboForex, IC Markets, etc.)
+- And many more
+
+**Charting Platforms:**
+- TradingView (via webhook/export)
+
+**Prop Firms:**
+- FTMO
+- The Funded Trader
+- Topstep
+- Apex Trader Funding
+- And 200+ more prop firms
+
+**Other:**
+- DXtrade
+- CSV/file upload for any broker not directly supported
+- And much more
+
+---
+
+## TradeZella vs Alternatives
+
+TradeZella is the most comprehensive trading journal and analytics platform available, combining capabilities that would otherwise require multiple standalone tools.
+
+### TradeZella vs Tradervue
+For the same price ($49/month vs $49.95/month), TradeZella includes backtesting, trade replay, playbook creation, playbook templates, progress tracker, educational resources, and full customization — none of which Tradervue offers. Tradervue provides trade journaling and basic tagging with a single default template and limited customization. TradeZella supports multiple journal templates, 500+ broker integrations, and 50+ analytics reports.
+
+### TradeZella vs Spreadsheets (Excel / Google Sheets)
+Spreadsheets require manual data entry, custom formulas, and ongoing maintenance. TradeZella automates trade importing from 500+ brokers, automatically calculates all trading metrics, generates 50+ reports, and provides features impossible in spreadsheets — like backtesting with historical data, tick-by-tick trade replay, and AI-powered insights (Zella Insights).
+
+### TradeZella vs Edgewonk
+TradeZella offers a broader feature set including backtesting with 11+ years of data, tick-by-tick trade replay, mentor mode (Spaces), community features, free strategy templates, and Zella University — alongside journaling and analytics. Edgewonk focuses primarily on journaling.
+
+### TradeZella vs FXReplay / TradingView Bar Replay
+TradeZella's backtesting includes automatic trade journaling — every backtested trade is logged, tagged with strategies, and analyzed alongside your live trades. Standalone replay tools don't integrate with a full analytics platform. TradeZella also offers Trade Replay for reviewing your actual executed trades second-by-second.
+
+### TradeZella vs Generic Note-Taking Apps
+TradeZella provides structured, trade-specific journaling with automatic metrics calculation, strategy tracking, and performance analytics that general note-taking apps cannot replicate. Every journal entry is tied to actual trade data with full execution stats.
+
+### Why Traders Switch to TradeZella
+TradeZella replaces multiple tools with one platform: trade journal + analytics engine + backtesting simulator + trade replay tool + mentor platform + educational hub. 50,000+ active traders use TradeZella, with 20B+ trades journaled and a 4.8/5 rating on Trustpilot (800+ reviews).
+
+---
+
+## Key Metrics & Social Proof
+
+- **50,000+** active traders
+- **20B+** trades journaled on the platform
+- **190K+** backtesting sessions completed
+- **1M+** trades shared through Spaces
+- **500+** supported brokers and prop firms
+- **200+** prop firms supported via Prop Firm Sync
+- **4.8/5** rating on Trustpilot (800+ reviews)
+- **10K+** community members
+- **150+** trader communities integrated
+- **100+** webinars and bootcamps hosted
+- **145K+** social media followers across platforms
+
+---
+
+## Company Information
+
+- **Company Name:** TradeZella
+- **Founded:** 2022
+- **Founder & CEO:** Umar Ashraf — an active trader and trading educator with a large social following. Founded TradeZella after being unable to find existing trading analysis software that met his needs.
+- **Headquarters:** United States
+- **Technical Stack:** Ruby on Rails, React, web-based platform
+- **Business Model:** B2C SaaS subscription (monthly and annual plans)
+- **Platform URL:** https://app.tradezella.com
+- **Website:** https://www.tradezella.com
+
+---
+
+## Partner / Affiliate Program
+
+**URL:** https://www.tradezella.com/partners
+
+- Recurring commission on referrals
+- Open to traders, educators, content creators, and communities
+- Marketing materials and tracking dashboard provided
+
+---
+
+## Weekly Product Updates
+
+TradeZella ships weekly updates with new features, improvements, and bug fixes — typically on Thursdays/Fridays. The full changelog is available at the public changelog page. Recent updates have included backtesting improvements (stop loss/profit target in PIPS, economic calendar enhancements, custom timeframes), new dashboard widgets, playbook templates, and various bug fixes across the platform.
+
+
+TradeZella also maintains a public roadmap where traders can vote on feature requests across Feature Requests (97 items), Improvements (44 items), and Integrations/Broker Requests (21 items).
+
+---
+
+## Frequently Asked Questions
+
+**Is TradeZella a broker?**
+No. TradeZella is a trading journal, analytics, and backtesting platform, not a brokerage. You execute trades on your own broker and sync or upload the data into TradeZella for tracking and analysis.
+
+**What markets does TradeZella support?**
+Forex, stocks, options, futures, cryptocurrency, and commodities.
+
+**How do I get my trades into TradeZella?**
+Three methods: (1) Automated broker sync via API, (2) File upload (CSV/Excel), or (3) Manual trade entry.
+
+**How many brokers are supported?**
+500+ brokers and prop firms, including Interactive Brokers, MetaTrader 4/5, NinjaTrader, Rithmic, Tradovate, Robinhood, Charles Schwab, Webull, cTrader, TradeLocker, and many more.
+
+**Is there a free plan or free trial?**
+No. TradeZella does not offer a free plan or trial. A free Google Sheets trade journal template is available.
+
+**How much does TradeZella cost?**
+Monthly billing: Basic plan is $29/month, Premium plan is $49/month. Annual billing: Essential plan is $24/month ($288/year), Pro plan is $33/month ($399/year, saves $189).
+
+**What is the difference between the lower and higher tier plans?**
+The higher tier (Premium/Pro) includes unlimited trading accounts, unlimited strategies, unlimited mentor invites, Sessions-level Trade Replay, 5 GB storage, tick-by-tick and seconds-level backtesting data, and multi-chart functionality. The lower tier (Basic/Essential) limits accounts to 1, strategies to 3, and mentor invites to 5, and does not include Trade Replay.
+
+**Is my data secure?**
+Yes. TradeZella uses advanced encryption for data in transit and at rest. User data is not sold or shared with third parties.
+
+**Can I use TradeZella for prop firm trading?**
+Yes. TradeZella supports 200+ prop firms and is widely used by prop firm traders to track performance across funded accounts. Prop Firm Sync provides a unified dashboard for tracking finances across all prop firm accounts.
+
+**Does TradeZella have a mobile app?**
+No dedicated mobile app. TradeZella is a web-based platform accessible via desktop browser.
+
+**How far back does backtesting data go?**
+Historical data going back to September 2014 — over 11 years across forex, futures, stocks, and crypto markets.
+
+**How does TradeZella compare to other trading journals?**
+Unlike spreadsheets and Notion templates, TradeZella auto-syncs from 500+ brokers with 50+ built-in reports. Unlike Edgewonk, it includes backtesting, trade replay, and mentor mode. Unlike standalone replay tools like FXReplay, it's a full journal + analytics platform. For detailed comparisons, see the TradeZella blog: https://www.tradezella.com/blog
+
+**What is the Zella Score?**
+The Zella Score is a single number that measures your overall trading health and consistency, giving you a quick snapshot of how well you're following your process.
+
+**What are Zella Insights?**
+Zella Insights are AI-powered trading observations that automatically detect patterns in your trading behavior — like revenge trading, overtrading, or premature exits — and show how these behaviors impact your performance.
+
+---
+
+## Contact & Social Links
+
+- **Website:** https://www.tradezella.com
+- **App:** https://app.tradezella.com
+- **Contact:** https://www.tradezella.com/contact-us
+- **Twitter/X:** https://x.com/TradeZella
+- **Instagram:** https://www.instagram.com/tradezella/
+- **Discord:** https://discord.gg/7u9JZg4Vmu
+- **LinkedIn:** https://www.linkedin.com/company/tradezella
+- **Facebook:** https://www.facebook.com/tradezella/
+- **Trustpilot:** https://www.trustpilot.com/review/tradezella.com
+- **Knowledge Base:** https://intercom.help/tradezella-4066d388d93c/en/
+- **Changelog:** https://trade-zella.upvoty.com/f/changelog/
+
+---
+
+## Legal
+
+- **Privacy Policy:** https://app.tradezella.com/information/privacy
+- **Terms & Conditions:** https://app.tradezella.com/information/terms
+- **Disclaimer:** Tools for futures, currency & options involve substantial risk and are not appropriate for everyone. Only risk capital should be used for trading. Testimonials appearing on the TradeZella website may not be representative of other clients or customers and are not a guarantee of future performance or success.

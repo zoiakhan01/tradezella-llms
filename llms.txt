@@ -1,0 +1,205 @@
+# TradeZella
+
+TradeZella is the #1 trading journal, analytics, and backtesting platform, built by traders for traders. Automatically import trades from 500+ brokers and prop firms, analyze performance with 50+ reports, backtest strategies against 11+ years of historical data, replay trades tick-by-tick, and improve through structured education and mentoring tools. Supports stocks, options, forex, futures, and crypto. Trusted by 50,000+ active traders with 20B+ trades journaled.
+
+## Root URL
+
+- [TradeZella Home](https://www.tradezella.com/home.md) — The #1 trading journal, analytics, and backtesting platform. 50,000+ active traders, 500+ broker and prop firm integrations, 50+ reports, 11+ years of backtesting data. What TradeZella is, who it's for, and what makes it different.
+
+## Products & Features
+
+### Core Platform
+
+- [Trading Journal & Analytics](https://www.tradezella.com/trading-journal.md) — Automatically sync trades from 500+ brokers and prop firms, analyze performance with 50+ reports, customizable dashboard, trade log, daily journal, notebook, and strategy tracking
+- [Backtesting](https://www.tradezella.com/backtesting.md) — Validate trading strategies against 11+ years of historical market data across forex, futures, stocks, and crypto with automatic trade journaling and built-in ICT indicators
+- [Trade Replay](https://www.tradezella.com/trade-replay.md) — Replay your actual trades tick-by-tick with second-by-second precision, integrated journaling, and Day Replay mode
+- [Spaces (Mentor Mode)](https://www.tradezella.com/mentor-mode.md) — Trading mentor software for coaches to monitor student performance, leave targeted feedback on trades, and manage unlimited students from one dashboard
+- [Prop Firm Sync](https://www.tradezella.com/prop-firm-sync.md) — Track prop firm finances, monitor evaluations, log payouts, and understand your true ROI across 200+ prop firms with automatic Plaid-powered transaction tracking (coming soon)
+- [Strategies](https://www.tradezella.com/strategies.md) — 25+ free ready-made trading strategy templates from verified profitable traders across stocks, options, futures, forex, and crypto
+
+### Learning & Community
+
+- [Zella University](https://www.tradezella.com/university.md) — Free structured trading courses covering introduction to trading, technical analysis, order flow, ICT methodology, and risk management
+- [Community](https://www.tradezella.com/community.md) — 20,000+ member Discord community with live backtesting sessions, mentor mode reviews, pre-market prep, and trading psychology webinars
+
+### Overview & Social Proof
+
+- [All Features](https://www.tradezella.com/features.md) — Consolidated feature overview page. Every feature you need to trade better — journaling, analytics, reports, trade replay, notebook, and learning resources. Rated 4.8 on TrustPilot
+- [Wall of Love — Testimonials](https://www.tradezella.com/love.md) — Real testimonials from 50,000+ traders worldwide sharing their results, stats, and experiences with TradeZella on social media
+- [Changelog — Weekly Updates](https://www.tradezella.com/changelog.md) — Weekly product updates showing new features, improvements, and bug fixes. Public roadmap with community feature voting at trade-zella.upvoty.com
+
+### Blog & Resources
+
+- [Blog](https://www.tradezella.com/blog.md) — Trading education, platform guides, strategy breakdowns, and industry comparisons. Includes TradingView Bar Replay vs. TradeZella, prop firm trading guides, and learning frameworks
+
+### Integrations & Support
+
+- [Supported Brokers](https://www.tradezella.com/brokersupport.md) — 500+ broker and prop firm integrations via auto-sync, file upload, or manual entry. Includes MetaTrader 4/5, NinjaTrader, ThinkorSwim, Interactive Brokers, Tradovate, cTrader, and more
+- [Pricing](https://www.tradezella.com/pricing.md) — Basic plan $29/month or Premium plan $49/month (monthly). Essential plan $24/month or Pro plan $33/month (yearly). Full feature breakdown for journaling, analytics, backtesting, trade replay, and mentor mode
+- [Contact Us](https://www.tradezella.com/contact-us.md) — Live chat via Intercom, Help Center at help.tradezella.com, Discord community, and email at support@tradezella.com
+
+## Help Center
+
+Full knowledge base at [help.tradezella.com](https://help.tradezella.com) covering:
+
+### Getting Started
+- [Welcome to TradeZella](https://www.tradezella.com/help-center/getting-started/welcome-to-tradezella.md)
+- [Getting Started with TradeZella](https://www.tradezella.com/help-center/getting-started/getting-started-with-tradezella.md)
+- [Setting Up Accounts within TradeZella](https://www.tradezella.com/help-center/getting-started/setting-up-accounts.md)
+- [Get Your Trades Imported into TradeZella](https://www.tradezella.com/help-center/getting-started/import-trades.md)
+- [List of Supported Brokers and Platforms](https://www.tradezella.com/help-center/getting-started/supported-brokers-list.md)
+- [About Zella AI](https://www.tradezella.com/help-center/getting-started/about-zella-ai.md)
+
+### Dashboard & Analytics
+- [Understanding Dashboard Widgets and Stats](https://www.tradezella.com/help-center/dashboard-analytics/understanding-dashboard-widgets.md)
+- [How to Add / Edit Dashboard Widgets](https://www.tradezella.com/help-center/dashboard-analytics/add-edit-dashboard-widgets.md)
+- [Understanding Drawdown Widgets](https://www.tradezella.com/help-center/dashboard-analytics/drawdown-widgets.md)
+- [Advanced Calendar Widget](https://www.tradezella.com/help-center/dashboard-analytics/advanced-calendar-widget.md)
+- [Dashboard Views in TradeZella](https://www.tradezella.com/help-center/dashboard-analytics/dashboard-views.md)
+- [Introducing the Zella Score](https://www.tradezella.com/help-center/dashboard-analytics/zella-score.md)
+- [Dashboard Percentage View](https://www.tradezella.com/help-center/dashboard-analytics/dashboard-percentage-view.md)
+- [How the Dashboard Calendar Calculates P&L](https://www.tradezella.com/help-center/dashboard-analytics/dashboard-calendar-pnl.md)
+
+### Trade Management
+- [Understanding the Daily Journal Page](https://www.tradezella.com/help-center/trade-management/daily-journal-page.md)
+- [How to Log Daily Notes](https://www.tradezella.com/help-center/trade-management/daily-journal-notes.md)
+- [Intraday Cumulative Net P&L Graph](https://www.tradezella.com/help-center/trade-management/intraday-pnl-graph.md)
+- [Understanding the Trade Log Page](https://www.tradezella.com/help-center/trade-management/trade-log-page.md)
+- [How to Customize the Trade Log Columns](https://www.tradezella.com/help-center/trade-management/customize-trade-log-columns.md)
+- [How to Split or Merge a Trade](https://www.tradezella.com/help-center/trade-management/split-merge-trades.md)
+- [How Can I Delete a Trade](https://www.tradezella.com/help-center/trade-management/delete-trade.md)
+- [Understanding the Trade Page](https://www.tradezella.com/help-center/trade-management/understanding-trade-page.md)
+- [How to Transfer Trades Between Accounts](https://www.tradezella.com/help-center/trade-management/transfer-trades.md)
+- [How to Export Data to CSV](https://www.tradezella.com/help-center/trade-management/export-csv.md)
+- [Understanding NET ROI Calculation](https://www.tradezella.com/help-center/trade-management/net-roi-calculation.md)
+- [How to Save Chart Indicators and Settings as Default](https://www.tradezella.com/help-center/trade-management/save-chart-settings.md)
+- [How to Share Your Trades](https://www.tradezella.com/help-center/trade-management/share-trades.md)
+- [How to Manually Add Commissions & Fees](https://www.tradezella.com/help-center/trade-management/manual-commissions-fees.md)
+- [How Entry and Exit Arrows Are Displayed](https://www.tradezella.com/help-center/trade-management/entry-exit-arrows.md)
+- [How to Set Profit Targets and Stop Losses](https://www.tradezella.com/help-center/trade-management/profit-targets-stop-losses.md)
+
+### Reports & Filters
+- [Reports Overview](https://www.tradezella.com/help-center/reports-filters/reports-overview.md)
+- [Reports: Calendar](https://www.tradezella.com/help-center/reports-filters/reports-calendar.md)
+- [Reports: Day & Time](https://www.tradezella.com/help-center/reports-filters/day-of-week-report.md)
+- [Reports: Symbol](https://www.tradezella.com/help-center/reports-filters/time-of-day-report.md)
+- [Reports: Win vs Losses](https://www.tradezella.com/help-center/reports-filters/win-vs-losses-report.md)
+- [Reports: Compare](https://www.tradezella.com/help-center/reports-filters/compare-report.md)
+- [Reports: Options](https://www.tradezella.com/help-center/reports-filters/options-report.md)
+- [Reports: Risk](https://www.tradezella.com/help-center/reports-filters/risk-report.md)
+- [Reports: Playbook](https://www.tradezella.com/help-center/reports-filters/playbook-report.md)
+- [Reports: Tags](https://www.tradezella.com/help-center/reports-filters/reports-tags.md)
+- [Using Filters in TradeZella](https://www.tradezella.com/help-center/reports-filters/filters.md)
+- [Zella Insights — AI-Powered Analytics](https://www.tradezella.com/help-center/reports-filters/zella-insights.md)
+
+### Strategies
+- [Getting Started with Strategies](https://www.tradezella.com/help-center/strategies/getting-started-strategies.md)
+- [What are Groups and Rules in Strategies](https://www.tradezella.com/help-center/strategies/groups-and-rules.md)
+- [What are Shared Strategies](https://www.tradezella.com/help-center/strategies/shared-strategies.md)
+- [How to Share Strategies](https://www.tradezella.com/help-center/strategies/how-to-share-strategies.md)
+- [How to Delete a Strategy](https://www.tradezella.com/help-center/strategies/delete-strategy.md)
+- [How to Add Trades to Your Strategy](https://www.tradezella.com/help-center/strategies/add-trades-to-strategy.md)
+- [How to Log Missed Trades](https://www.tradezella.com/help-center/strategies/log-missed-trades.md)
+
+### Notebook
+- [Introducing the Text Editor](https://www.tradezella.com/help-center/notebook/text-editor.md)
+- [Organizing and Managing Your Notes](https://www.tradezella.com/help-center/notebook/organizing-managing-notes.md)
+- [How to Create a Default Note Template](https://www.tradezella.com/help-center/notebook/create-note-template.md)
+- [How to Share Your Notes](https://www.tradezella.com/help-center/notebook/share-notes.md)
+- [How to Download Notes as PDF](https://www.tradezella.com/help-center/notebook/download-notes-pdf.md)
+- [How to Create or Delete a Folder](https://www.tradezella.com/help-center/notebook/create-delete-folder.md)
+- [How to Add and Remove Tags](https://www.tradezella.com/help-center/notebook/add-remove-tags-notebook.md)
+
+### Backtesting & Replay
+- [What is Backtesting in TradeZella?](https://www.tradezella.com/help-center/backtesting-replay/getting-started-backtesting.md)
+- [How to Create a Backtesting Session](https://www.tradezella.com/help-center/backtesting-replay/create-backtesting-session.md)
+- [Understanding the Backtesting Window](https://www.tradezella.com/help-center/backtesting-replay/backtesting-window.md)
+- [Backtesting Data Availability](https://www.tradezella.com/help-center/backtesting-replay/backtesting-data-availability.md)
+- [Timeframes and Playback Speeds](https://www.tradezella.com/help-center/backtesting-replay/timeframes-playback-speeds.md)
+- [Using Indicators in Backtesting](https://www.tradezella.com/help-center/backtesting-replay/backtesting-indicators.md)
+- [ICT Fair Value Gap (FVG) Indicator](https://www.tradezella.com/help-center/backtesting-replay/ict-fvg-indicator.md)
+- [Backtesting for Forex Traders](https://www.tradezella.com/help-center/backtesting-replay/backtesting-forex.md)
+- [Futures Backtesting](https://www.tradezella.com/help-center/backtesting-replay/futures-backtesting.md)
+- [List of Supported Symbols for Backtesting](https://www.tradezella.com/help-center/backtesting-replay/supported-symbols-backtesting.md)
+- [Understanding Order Types in Backtesting](https://www.tradezella.com/help-center/backtesting-replay/order-types-backtesting.md)
+- [How to Take Partials in Backtesting](https://www.tradezella.com/help-center/backtesting-replay/take-partials-backtesting.md)
+- [How to Backtest Multiple Symbols and Charts](https://www.tradezella.com/help-center/backtesting-replay/multiple-symbols-charts.md)
+- [Jump to a Specific Candle](https://www.tradezella.com/help-center/backtesting-replay/jump-to-candle.md)
+- [Keyboard Shortcuts in Backtesting](https://www.tradezella.com/help-center/backtesting-replay/keyboard-shortcuts-backtesting.md)
+- [Journaling Trades While Backtesting](https://www.tradezella.com/help-center/backtesting-replay/journaling-while-backtesting.md)
+- [Auto-Journaling of Backtested Trades](https://www.tradezella.com/help-center/backtesting-replay/auto-journal-backtesting.md)
+- [Share a Backtesting Session](https://www.tradezella.com/help-center/backtesting-replay/share-backtesting-session.md)
+- [Backtesting Session Limits](https://www.tradezella.com/help-center/backtesting-replay/backtesting-session-limits.md)
+- [Backtesting Without a Broker](https://www.tradezella.com/help-center/backtesting-replay/backtesting-no-broker.md)
+- [Backtesting Session Tab Columns](https://www.tradezella.com/help-center/backtesting-replay/backtesting-session-columns.md)
+- [The Go-To Feature](https://www.tradezella.com/help-center/backtesting-replay/go-to-feature.md)
+- [TradeZella vs FXreplay](https://www.tradezella.com/help-center/backtesting-replay/tradezella-vs-fxreplay.md)
+- [Trade Replay 2.0 — Second-by-Second Analysis](https://www.tradezella.com/help-center/backtesting-replay/trade-replay-2.md)
+- [Trade Replay vs Backtesting Comparison](https://www.tradezella.com/help-center/backtesting-replay/replay-vs-backtesting.md)
+- [Getting Started with Trade Replay](https://www.tradezella.com/help-center/backtesting-replay/trade-replay-overview.md)
+
+### Prop Firm Sync
+- [Getting Started with Prop Firm Sync](https://www.tradezella.com/help-center/prop-firm-sync/getting-started-prop-firm-sync.md)
+- [Prop Firm Performance Analytics](https://www.tradezella.com/help-center/prop-firm-sync/prop-firm-performance-analytics.md)
+- [How to Create a New Challenge](https://www.tradezella.com/help-center/prop-firm-sync/challenge-simulator.md)
+
+### Progress Tracker
+- [Getting Started with the Progress Tracker](https://www.tradezella.com/help-center/progress-tracker/getting-started-progress-tracker.md)
+- [Setting Up Progress Tracker Rules](https://www.tradezella.com/help-center/progress-tracker/progress-tracker-rules.md)
+- [Add Progress Tracker Widget to Dashboard](https://www.tradezella.com/help-center/progress-tracker/add-widget-dashboard.md)
+- [How to Reset Your Progress Tracker](https://www.tradezella.com/help-center/progress-tracker/reset-progress-tracker.md)
+
+### Key Trading Metrics
+- [Understanding MAE and MFE](https://www.tradezella.com/help-center/trading-metrics/understanding-mae-mfe.md)
+- [Zella Scale — Maximize Your Trade Insights](https://www.tradezella.com/help-center/trading-metrics/zella-scale.md)
+
+### Account Management
+- [Account Management in TradeZella](https://www.tradezella.com/help-center/account-billing/account-management.md)
+- [Profile Settings](https://www.tradezella.com/help-center/account-management/profile-settings.md)
+- [Security Settings](https://www.tradezella.com/help-center/account-management/security-settings.md)
+- [Enable Dark Mode](https://www.tradezella.com/help-center/account-management/enable-dark-mode.md)
+- [Creating an Account in TradeZella](https://www.tradezella.com/help-center/account-management/creating-account.md)
+- [Deleting an Account](https://www.tradezella.com/help-center/account-management/deleting-account.md)
+- [Archiving Accounts](https://www.tradezella.com/help-center/account-management/archiving-accounts.md)
+- [Setting Your Account Balance](https://www.tradezella.com/help-center/account-management/account-balance.md)
+- [Profit Calculation Methods — FIFO, LIFO, Weighted Average](https://www.tradezella.com/help-center/account-management/profit-calculation-methods.md)
+- [Default Commissions and Fees](https://www.tradezella.com/help-center/account-management/default-commissions.md)
+- [Trade Settings Tab Explained](https://www.tradezella.com/help-center/account-management/trade-settings.md)
+- [How to Change Your Timezone](https://www.tradezella.com/help-center/account-management/timezone-settings.md)
+- [Tag Management](https://www.tradezella.com/help-center/account-management/tag-management.md)
+- [Import History](https://www.tradezella.com/help-center/account-management/import-history.md)
+
+### Subscription & Billing
+- [Our Pricing](https://www.tradezella.com/help-center/account-billing/pricing.md)
+- [How to Renew Your Subscription](https://www.tradezella.com/help-center/subscription-billing/how-to-renew.md)
+- [How to Cancel Your Subscription](https://www.tradezella.com/help-center/subscription-billing/how-to-cancel.md)
+- [How to Switch Your Subscription Plan](https://www.tradezella.com/help-center/subscription-billing/how-to-switch-plan.md)
+- [Update Your Payment Card](https://www.tradezella.com/help-center/subscription-billing/update-payment.md)
+- [Billing — Upgrades, Proration, and Renewals](https://www.tradezella.com/help-center/subscription-billing/billing-proration.md)
+
+### FAQs
+- [What Trading Assets Are Supported?](https://www.tradezella.com/help-center/faqs/supported-trading-assets.md)
+- [What Is Trade Expectancy?](https://www.tradezella.com/help-center/faqs/trade-expectancy.md)
+- [Understanding R-Multiple](https://www.tradezella.com/help-center/faqs/r-multiple.md)
+- [How to Undo Imports](https://www.tradezella.com/help-center/faqs/how-to-undo-imports.md)
+- [How to Filter Your Trades](https://www.tradezella.com/help-center/faqs/how-to-filter-trades.md)
+- [How to Edit Trades](https://www.tradezella.com/help-center/faqs/how-to-edit-trades.md)
+- [Exploring the Economic Calendar](https://www.tradezella.com/help-center/faqs/economic-calendar.md)
+- [Regular vs Extended Trading Hours](https://www.tradezella.com/help-center/faqs/extended-trading-hours.md)
+- [Copy Drawings from TradingView](https://www.tradezella.com/help-center/faqs/copy-drawings-tradingview.md)
+- [List of Supported Indicators](https://www.tradezella.com/help-center/faqs/supported-indicators.md)
+- [MT4/MT5 Demo and Live Account Support](https://www.tradezella.com/help-center/faqs/mt4-mt5-demo-live.md)
+- [Unrealized P&L FAQ](https://www.tradezella.com/help-center/faqs/unrealized-pnl-faq.md)
+- [Adjusted Cost Showing in Millions](https://www.tradezella.com/help-center/faqs/adjusted-cost-millions.md)
+- [TradeZella Partner Program](https://www.tradezella.com/help-center/faqs/partner-program.md)
+
+### Troubleshooting
+- [Expired Option Trades Showing as Open](https://www.tradezella.com/help-center/troubleshooting/expired-options-open.md)
+- [Correcting Chart Entry and Exit Points](https://www.tradezella.com/help-center/troubleshooting/correcting-chart-points.md)
+- [Duplicate Trades in TradeZella](https://www.tradezella.com/help-center/troubleshooting/duplicate-trades.md)
+- [TOS/Charles Schwab Sync Issues](https://www.tradezella.com/help-center/troubleshooting/schwab-sync-issues.md)
+- [Tradovate P&L Issues](https://www.tradezella.com/help-center/troubleshooting/tradovate-pnl-issues.md)
+- [Thinkorswim Trades Not Syncing](https://www.tradezella.com/help-center/troubleshooting/thinkorswim-not-syncing.md)
+- [Interactive Brokers Trades Not Syncing](https://www.tradezella.com/help-center/troubleshooting/interactive-brokers-not-syncing.md)
+
+## For the full content of all pages, see [llms-full.txt](https://www.tradezella.com/llms-full.txt)
