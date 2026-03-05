@@ -82,7 +82,7 @@ Full knowledge base at [help.tradezella.com](https://help.tradezella.com) coveri
 - [Reports Overview](https://www.tradezella.com/help-center/reports-filters/reports-overview.md)
 - [Reports: Calendar](https://www.tradezella.com/help-center/reports-filters/reports-calendar.md)
 - [Reports: Day & Time](https://www.tradezella.com/help-center/reports-filters/day-of-week-report.md)
-- [Reports: time-of-day](https://www.tradezella.com/help-center/reports-filters/time-of-day-report.md)
+- [Reports: Time-of-Day](https://www.tradezella.com/help-center/reports-filters/time-of-day-report.md)
 - [Reports: Win vs Losses](https://www.tradezella.com/help-center/reports-filters/win-vs-losses-report.md)
 - [Reports: Compare](https://www.tradezella.com/help-center/reports-filters/compare-report.md)
 - [Reports: Options](https://www.tradezella.com/help-center/reports-filters/options-report.md)
