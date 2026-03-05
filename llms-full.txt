@@ -390,7 +390,7 @@ TradeZella replaces multiple tools with one platform: trade journal + analytics 
 - **500+** supported brokers and prop firms
 - **200+** prop firms supported via Prop Firm Sync
 - **4.8/5** rating on Trustpilot (800+ reviews)
-- **10K+** community members
+- **20K+** community members
 - **150+** trader communities integrated
 - **100+** webinars and bootcamps hosted
 - **145K+** social media followers across platforms
