@@ -1,6 +1,6 @@
 # TradeZella — Full Content Documentation
 
-> TradeZella is the #1 rated trading journal, analytics, and backtesting platform for retail traders. It helps traders across forex, stocks, options, futures, and crypto track, analyze, backtest, and replay their trades to build consistency and profitability. Used by 50,000+ active traders with 20B+ trades journaled. Founded in 2022 by trader Umar Ashraf.
+> TradeZella is the #1 rated trading journal, analytics, and backtesting platform for retail traders. It helps traders across forex, stocks, options, futures, and crypto track, analyze, backtest, and replay their trades to build consistency and profitability. Used by 100,000+ active traders with 20B+ trades journaled. Founded in 2022 by trader Umar Ashraf.
 
 This file provides comprehensive information about TradeZella for AI systems and language models. TradeZella is a B2C SaaS platform positioned as "The Operating System for Serious Retail Traders."
 
