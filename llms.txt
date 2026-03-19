@@ -1,6 +1,6 @@
 # TradeZella
 
-TradeZella is the #1 trading journal, analytics, and backtesting platform, built by traders for traders. Automatically import trades from 500+ brokers and prop firms, analyze performance with 50+ reports, backtest strategies against 11+ years of historical data, replay trades tick-by-tick, and improve through structured education and mentoring tools. Supports stocks, options, forex, futures, and crypto. Trusted by 50,000+ active traders with 20B+ trades journaled.
+TradeZella is the #1 trading journal, analytics, and backtesting platform, built by traders for traders. Automatically import trades from 500+ brokers and prop firms, analyze performance with 50+ reports, backtest strategies against 11+ years of historical data, replay trades tick-by-tick, and improve through structured education and mentoring tools. Supports stocks, options, forex, futures, and crypto. Trusted by 100,000+ active traders with 20B+ trades journaled.
 
 ## Root URL
 
