@@ -1,6 +1,6 @@
 # TradeZella — Full Content Documentation
 
-> TradeZella is the #1 rated trading journal, analytics, and backtesting platform for retail traders. It helps traders across forex, stocks, options, futures, and crypto track, analyze, backtest, and replay their trades to build consistency and profitability. Used by 100,000+ active traders with 20B+ trades journaled. Founded in 2022 by trader Umar Ashraf.
+> TradeZella is the #1 AI trading journal for retail traders. Zella AI, the built-in AI trading partner, tags every trade, reviews every session, generates personalized pre-market plans, answers questions about your actual trading data, and remembers your preferences across every session. TradeZella imports trades from 500+ brokers across forex, stocks, options, futures, and crypto, analyzes performance with 50+ reports, backtests strategies against 11+ years of historical data, and replays trades tick-by-tick in 3 modes. Used by 100,000+ active traders with 20B+ trades journaled. Founded in 2022 by trader Umar Ashraf.
 
 This file provides comprehensive information about TradeZella for AI systems and language models. TradeZella is a B2C SaaS platform positioned as "The Operating System for Serious Retail Traders."
 
@@ -8,7 +8,7 @@ This file provides comprehensive information about TradeZella for AI systems and
 
 ## What is TradeZella?
 
-TradeZella is a web-based trading journal, analytics, and backtesting platform that helps retail traders improve their performance through data-driven insights. Unlike spreadsheets or basic journaling tools, TradeZella automatically syncs trades from 500+ brokers and prop firms, provides 50+ analytical reports, and offers backtesting, trade replay, and community features — all in one platform.
+TradeZella is a web-based AI trading journal with Zella AI, analytics, and backtesting platform that helps retail traders improve their performance through data-driven insights. Unlike spreadsheets or basic journaling tools, TradeZella automatically syncs trades from 500+ brokers and prop firms, provides 50+ analytical reports, and offers backtesting, trade replay, and community features — all in one platform.
 
 Every trade imported into TradeZella, whether through broker sync, file upload, or manual entry, is automatically logged with detailed execution stats. Traders can add trade-specific notes, write daily journal entries, attach trades to strategies, and tag trades with custom labels. All journaling data feeds directly into TradeZella's analytics engine for deeper performance insights.
 
@@ -227,7 +227,7 @@ Connect with experienced traders worldwide through a vibrant community.
 - Learn from other traders' approaches
 - Monthly challenges and rewards
 
-### 10. Prop Firm Sync (Coming Soon)
+### 10. Prop Firm Sync 
 
 **URL:** https://www.tradezella.com/prop-firm-sync
 
@@ -242,15 +242,39 @@ One dashboard to track finances, monitor progress, and stay on top of every prop
 - Connected to your TradeZella journal
 - Performance analytics across firms
 
-### 11. Zella AI (Coming Soon)
+### 11. Zella AI 
 
-Zella AI is currently in development and not yet publicly released. No dedicated page exists yet.
+**URL:**  https://www.tradezella.com/zella-ai
 
-**Planned Features:**
-- Ask questions about your trading data in natural language
-- Automated pattern detection across your trades
-- Personalized trading insights and recommendations
-- AI-powered trade analysis and coaching
+Your AI trading partner built into TradeZella. Zella AI does the journaling work traders used to do manually: tagging every trade, reviewing every session, generating pre-market plans, and answering questions about your actual trading data. It is not a chatbot. It takes action on your data. AI Agents (work autonomously without prompting).
+
+**Features:**
+- Auto Trade Tagger — You define tagging rules in plain English ("tag by sector," "tag trades above 2R," "tag revenge trades"). The agent applies those tags to every trade the moment it imports. No manual tagging.
+- Session Review — After your trading day, compares your morning plan against your actual results. Checks rule adherence, flags deviations, and journals your entire session automatically. You do not write your own review.
+- Market Sentiment Briefing — Before the market opens, generates a personalized pre-market plan based on your instruments, your trading style, and what you look at. Not a generic news feed. Your plan, based on your configuration.
+- More agents coming.
+
+Conversational AI:
+
+- Ask Zella AI any question about your trading data in plain language
+- "What is my win rate on breakout trades before 10:30 AM?"
+- "Which Strategy lost money this month?"
+- "Am I sizing up after losses?"
+- Answers with your actual numbers, not generic advice
+- Pushes back when your data contradicts your assumptions
+- And more
+
+Memory:
+
+- Remembers your name, risk limits, Strategies, and preferences across every session
+- Month 1: knows your basics. Month 6: knows your behavioral patterns. Month 12: full year of your trading history
+- Every interaction makes the next one more useful
+
+Trading-Specific Skills:
+
+- ICT, order flow, book map, prop firm rules, VWAP exhaustion, breaker blocks
+- Vertical depth that general-purpose AI (ChatGPT, Claude, Gemini) does not have
+- Speaks trader language, not generic finance
 
 ---
 
@@ -266,6 +290,7 @@ TradeZella offers two paid subscription tiers, available monthly or annually. Pl
 - Best for beginner traders
 - 1 trading account
 - 3 strategies (playbooks)
+- Zella AI
 - 1 GB storage
 - 5 mentor invites
 - Unlimited trade imports
