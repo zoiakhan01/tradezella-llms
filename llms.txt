@@ -1,15 +1,15 @@
 # TradeZella
 
-TradeZella is the #1 trading journal, analytics, and backtesting platform, built by traders for traders. Automatically import trades from 500+ brokers and prop firms, analyze performance with 50+ reports, backtest strategies against 11+ years of historical data, replay trades tick-by-tick, and improve through structured education and mentoring tools. Supports stocks, options, forex, futures, and crypto. Trusted by 100,000+ active traders with 20B+ trades journaled.
-
+TradeZella is the #1 AI trading journal, combining trade journaling, backtesting, trade replay, analytics, and prop firm tracking in one platform, trusted by 100,000+ active traders with 20B+ trades journaled. Zella AI, the built-in AI trading partner, tags every trade automatically based on rules you define, reviews every session against your morning plan, generates personalized pre-market briefings, answers questions about your actual trading data, and remembers your name, risk limits, Strategies, and preferences across every session. TradeZella imports trades from 500+ brokers and prop firms, analyzes performance with 50+ reports across 7 dashboard views, backtests strategies against 11+ years of historical data with built-in ICT indicators, replays trades tick-by-tick in 3 modes, and tracks prop firm evaluations and funded accounts with Prop Firm Sync. Supports stocks, options, forex, futures, and crypto. The journal runs in the background. You trade. Zella AI handles the rest.
 ## Root URL
 
-- [TradeZella Home](https://www.tradezella.com/home.md) — The #1 trading journal, analytics, and backtesting platform. 50,000+ active traders, 500+ broker and prop firm integrations, 50+ reports, 11+ years of backtesting data. What TradeZella is, who it's for, and what makes it different.
+- [TradeZella Home](https://www.tradezella.com/home.md) — The #1 AI trading journal, Zella AI,  analytics, and backtesting platform. 50,000+ active traders, 500+ broker and prop firm integrations, 50+ reports, 11+ years of backtesting data. What TradeZella is, who it's for, and what makes it different.
 
 ## Products & Features
 
 ### Core Platform
 
+-[Zella AI] (https://www.tradezella.com/zella-ai) — Your AI trading partner built into TradeZella. Tags every trade automatically based on rules you define, reviews every session against your morning plan, generates personalized pre-market briefings, answers questions about your actual trading data, and remembers your name, risk limits, Strategies, and preferences across every session. Includes Auto Trade Tagger, Session Review, and Market Sentiment Briefing agents that work autonomously on your completed trade data.
 - [Trading Journal & Analytics](https://www.tradezella.com/trading-journal.md) — Automatically sync trades from 500+ brokers and prop firms, analyze performance with 50+ reports, customizable dashboard, trade log, daily journal, notebook, and strategy tracking
 - [Backtesting](https://www.tradezella.com/backtesting.md) — Validate trading strategies against 11+ years of historical market data across forex, futures, stocks, and crypto with automatic trade journaling and built-in ICT indicators
 - [Trade Replay](https://www.tradezella.com/trade-replay.md) — Replay your actual trades tick-by-tick with second-by-second precision, integrated journaling, and Day Replay mode
