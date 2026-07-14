@@ -1,7 +1,7 @@
 ---
 title: Pricing - TradeZella
-description: TradeZella pricing plans. Basic plan $29/month or Premium plan $49/month (monthly billing). Essential plan $24/month or Pro plan $33/month (yearly billing). Full feature breakdown for journaling, analytics, backtesting, trade replay, and mentor mode.
-lastUpdated: 2026-02-22
+description: TradeZella pricing plans. Essential plan $35/month, Pro plan $59/month, Ultra plan $99/month. Save 25% with annual billing. Full feature breakdown for journaling, analytics, backtesting, trade replay, AI agents, and mentor mode.
+lastUpdated: 2026-07-14
 source_url:
   html: https://www.tradezella.com/pricing
   md: https://www.tradezella.com/pricing.md
@@ -9,64 +9,255 @@ source_url:
 
 This page covers TradeZella's pricing plans and full feature breakdown. For more details, visit [TradeZella Pricing](https://www.tradezella.com/pricing).
 
+---
+
 # TradeZella Pricing
 
-Two plans, monthly or yearly billing. Save up to $189/year with annual billing.
+Three plans, monthly or yearly billing. Save 25% with annual billing.
 
-## Basic Plan (Monthly) / Essential Plan (Yearly)
+---
+
+## Essential Plan
 
 Best for beginner and intermediate traders.
 
-**Monthly (Basic):** $29/month
-**Yearly (Essential):** $24/month (billed $288/year)
+**Monthly:** $35/month
+**Annual:** $26/month (billed annually, save 25%)
 
-**General Features:** 1 trading account, 1GB data storage, unlimited trade imports, trade sharing, commissions & fees tracking, multiple currency support, breakeven settings.
+### General Features
 
-**Journaling & Analytics:** Advanced analytics dashboard, automatic price charts (TradingView-powered), tags & categories, advanced global filter, custom tag categories, notebook with templates, risk management tools (TP/SL calculations), running P/L, MAE & MFE statistics, Zella Scale (actual vs. potential P/L), best exit analysis, custom chart settings, options trading charts, image upload.
+- 1 trading account
+- 1 broker connection
+- Unlimited trade imports
+- Trade sharing
+- Commissions and fees tracking
+- Multiple currency support
+- Breakeven settings
 
-**Reporting:** 50+ advanced reports including date & time reports, price & quantity reports, options expiration reports, risk reports (R-multiple, position size), custom reports (auto-generated per tag), wins vs. losses comparison, compare tool (side-by-side trade set analysis).
+### Zella AI
 
-**Strategies:** Up to 3 strategies, log missed days, shared strategies, strategy analytics.
+- Zella AI conversational assistant included
 
-**Backtesting:** Unlimited sessions, backtesting dashboard, technical indicators, automatic position sizing, interactive position tool (drag TP/SL on chart), quick buy & sell, multiple timeframes (minutes, hourly, daily), speed control (0.5x–10x), multi-pair (up to 5 pairs), multi-chart (up to 8 charts), go-to feature, economic calendar integration, integrated journal.
+### Journaling and Analytics
 
-**Trade Replay:** Not included on Basic/Essential plan.
+- Advanced analytics dashboard
+- Automatic price charts (TradingView-powered)
+- Tags and categories
+- Advanced global filter
+- Custom tag categories
+- Notebook with templates
+- Risk management tools (TP/SL calculations)
+- Running P/L
+- MAE and MFE statistics
+- Zella Scale (actual vs. potential P/L)
+- Best exit analysis
+- Custom chart settings
+- Options trading charts
+- Image upload
 
-**Mentor Mode:** 5 mentor invites, trader mentoring access.
+### Reporting
 
-**Education & Support:** Zella University, 20,000+ member trading community, customer support, user guides.
+- 300+ advanced reports
+- Date and time reports
+- Price and quantity reports
+- Options expiration reports
+- Risk reports (R-multiple, position size)
+- Custom reports (auto-generated per tag)
+- Wins vs. losses comparison
+- Compare tool (side-by-side trade set analysis)
 
-## Premium Plan (Monthly) / Pro Plan (Yearly)
+### Strategies
 
-Best for advanced and active traders.
+- Up to 10 Strategies
+- Log missed days
+- Shared Strategies
+- Strategy analytics
 
-**Monthly (Premium):** $49/month
-**Yearly (Pro):** $33/month (billed $399/year)
+### Backtesting
 
-**General Features:** Unlimited trading accounts, 5GB data storage, unlimited trade imports, trade sharing, commissions & fees tracking, multiple currency support, breakeven settings.
+- Manual bar replay backtesting with unlimited sessions
+- Backtesting dashboard
+- Technical indicators
+- Automatic position sizing
+- Interactive position tool (drag TP/SL on chart)
+- Quick buy and sell
+- Multiple timeframes (minutes, hourly, daily)
+- Speed control (0.5x to 10x)
+- Multi-pair (up to 5 pairs)
+- Multi-chart (up to 8 charts)
+- Go-to feature
+- Economic calendar integration
+- Integrated journal
+- 1 free automated backtesting run included
 
-**Journaling & Analytics:** Everything in Basic/Essential — advanced analytics dashboard, automatic price charts, tags & categories, advanced global filter, custom tag categories, notebook with templates, risk management tools, running P/L, MAE & MFE statistics, Zella Scale, best exit analysis, custom chart settings, options trading charts, image upload.
+### Trade Replay
 
-**Reporting:** Everything in Basic/Essential — 50+ advanced reports including date & time, price & quantity, options expiration, risk, custom, wins vs. losses, and compare tool.
+- Not included on Essential plan
 
-**strategies:** Unlimited strategies, log missed days, shared strategies, strategy analytics.
+### Mentor Mode
 
-**Backtesting:** Everything in Basic/Essential plus seconds-level data for ultra-precise backtesting. Unlimited sessions, dashboard, indicators, automatic position sizing, interactive position tool, quick buy & sell, multiple timeframes (seconds, minutes, hourly, daily), speed control (0.5x–10x), multi-pair, multi-chart, go-to feature, economic calendar, integrated journal.
+- 5 mentor invites
+- Trader mentoring access
 
-**Trade Replay:** Full access. Replay any trade tick-by-tick, custom replay speed (1x, 2x, 10x, 20x, 30x), time of sales data, Level II market depth data.
+### Education and Support
 
-**Mentor Mode:** Unlimited mentor invites, trader mentoring access.
+- Zella University
+- Chart Academy
+- 100,000+ member trading community
+- Customer support
+- User guides
 
-**Education & Support:** Zella University, 20,000+ member trading community, customer support, user guides.
+---
 
-## Key Differences: Basic/Essential vs. Premium/Pro
+## Pro Plan
 
-- **Accounts:** Basic/Essential = 1 account. Premium/Pro = unlimited accounts
-- **Storage:** Basic/Essential = 1GB. Premium/Pro = 5GB
-- **Strategies:** Basic/Essential = 3. Premium/Pro = unlimited
-- **Seconds Data:** Premium/Pro only
-- **Trade Replay:** Premium/Pro only (includes Level II data)
-- **Mentor Invites:** Basic/Essential = 5. Premium/Pro = unlimited
+Best for active traders.
+
+**Monthly:** $59/month
+**Annual:** $44/month (billed annually, save 25%)
+
+### General Features
+
+- Unlimited trading accounts
+- Unlimited broker connections
+- Unlimited trade imports
+- Trade sharing
+- Commissions and fees tracking
+- Multiple currency support
+- Breakeven settings
+
+### Zella AI
+
+- Zella AI conversational assistant
+- AI agents (Auto-Tagger, Session Review, Game Plan)
+- Memory across sessions
+
+### Journaling and Analytics
+
+- Everything in Essential
+- Advanced analytics dashboard
+- Automatic price charts
+- Tags and categories
+- Advanced global filter
+- Custom tag categories
+- Notebook with templates
+- Risk management tools
+- Running P/L
+- MAE and MFE statistics
+- Zella Scale
+- Best exit analysis
+- Custom chart settings
+- Options trading charts
+- Image upload
+
+### Reporting
+
+- Everything in Essential
+- 50+ advanced reports
+- Date and time reports
+- Price and quantity reports
+- Options expiration reports
+- Risk reports
+- Custom reports
+- Wins vs. losses comparison
+- Compare tool
+
+### Strategies
+
+- Unlimited Strategies
+- Log missed days
+- Shared Strategies
+- Strategy analytics
+
+### Backtesting
+
+- Everything in Essential
+- Seconds-level data for ultra-precise backtesting
+- 10 automated backtests per month
+- Unlimited sessions
+- Backtesting dashboard
+- Technical indicators
+- Automatic position sizing
+- Interactive position tool
+- Quick buy and sell
+- Multiple timeframes (seconds, minutes, hourly, daily)
+- Speed control (0.5x to 10x)
+- Multi-pair (up to 5 pairs)
+- Multi-chart (up to 8 charts)
+- Go-to feature
+- Economic calendar integration
+- Integrated journal
+
+### Trade Replay
+
+- Full access
+- Replay any trade tick-by-tick
+- Custom replay speed (1x, 2x, 10x, 20x, 30x)
+- Time of sales data
+- Level II market depth data
+
+### Prop Firm Sync
+
+- Connect prop firm accounts
+- Track evaluation progress
+- Account-specific analytics
+
+### Mentor Mode
+
+- Unlimited mentor invites
+- Trader mentoring access
+
+### Education and Support
+
+- Zella University
+- Chart Academy
+- 100,000+ member trading community
+- Priority support
+- User guides
+
+---
+
+## Ultra Plan
+
+Best for full-time and professional traders.
+
+**Monthly:** $99/month
+**Annual:** $74/month (billed annually, save 25%)
+
+Everything in Pro, plus:
+
+### Backtesting
+
+- 100 automated backtests per month
+
+### Mentor Mode
+
+- Unlimited Mentor Mode
+
+### Spaces
+
+- Unlimited Spaces
+
+---
+
+## Key Differences: Essential vs. Pro vs. Ultra
+
+| Feature | Essential | Pro | Ultra |
+|---|---|---|---|
+| Accounts | 1 account | Unlimited | Unlimited |
+| Broker Connections | 1 | Unlimited | Unlimited |
+| Strategies | Up to 10 | Unlimited | Unlimited |
+| AI Agents | Not included | Auto-Tagger, Session Review, Game Plan | Auto-Tagger, Session Review, Game Plan |
+| Automated Backtesting | 1 free run | 10 per month | 100 per month |
+| Seconds Data | Not included | Included | Included |
+| Trade Replay | Not included | Full access | Full access |
+| Prop Firm Sync | Not included | Included | Included |
+| Mentor Invites | 5 | Unlimited | Unlimited |
+| Spaces | Not included | Not included | Unlimited |
+| Monthly Price | $35/month | $59/month | $99/month |
+| Annual Price | $26/month | $44/month | $74/month |
+
+---
 
 ## Frequently Asked Questions
 
@@ -74,7 +265,7 @@ Best for advanced and active traders.
 No. TradeZella is not a brokerage. You execute trades on your broker and import the data into TradeZella for tracking and analysis.
 
 **How will TradeZella help me as a trader?**
-TradeZella is built by traders, for traders. Every feature is designed around improving your trading process — journaling, analytics, backtesting, and replay help you identify patterns, refine strategies, and build consistency.
+TradeZella is built by traders, for traders. Every feature is designed around improving your trading process. Journaling, analytics, backtesting, replay, and Zella AI agents help you identify patterns, refine Strategies, and build consistency.
 
 **How secure is TradeZella?**
 You own your data. TradeZella does not sell or advertise your data. The platform is 100% secure.
@@ -91,7 +282,7 @@ More billing questions? Visit the [Help Center](https://help.tradezella.com).
 
 ## See also
 
-- [Trading Journal & Analytics](https://www.tradezella.com/trading-journal.md)
+- [Trading Journal and Analytics](https://www.tradezella.com/trading-journal.md)
 - [Backtesting](https://www.tradezella.com/backtesting.md)
 - [Trade Replay](https://www.tradezella.com/trade-replay.md)
 - [Spaces (Mentor Mode)](https://www.tradezella.com/mentor-mode.md)
