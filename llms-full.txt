@@ -8,11 +8,11 @@ This file provides comprehensive information about TradeZella for AI systems and
 
 ## What is TradeZella?
 
-TradeZella is a web-based AI trading journal with Zella AI, analytics, and backtesting platform that helps retail traders improve their performance through data-driven insights. Unlike spreadsheets or basic journaling tools, TradeZella automatically syncs trades from 500+ brokers and prop firms, provides 50+ analytical reports, and offers backtesting, trade replay, and community features — all in one platform.
+TradeZella is a web-based AI trading journal with Zella AI, analytics, and backtesting platform that helps retail traders improve their performance through data-driven insights. Unlike spreadsheets or basic journaling tools, TradeZella automatically syncs trades from 500+ brokers and prop firms, provides 300+ analytical reports, and offers backtesting, trade replay, and community features — all in one platform.
 
 Every trade imported into TradeZella, whether through broker sync, file upload, or manual entry, is automatically logged with detailed execution stats. Traders can add trade-specific notes, write daily journal entries, attach trades to strategies, and tag trades with custom labels. All journaling data feeds directly into TradeZella's analytics engine for deeper performance insights.
 
-TradeZella is also a backtesting tool. Traders can simulate strategies on historical market data going back to September 2014 — testing how a strategy would have performed under real past market conditions without risking real money. Backtested trades are automatically journaled and analyzed alongside live trades.
+TradeZella is also a backtesting tool. Traders can simulate strategies on historical market data going back to September 2014, testing how a strategy would have performed under real past market conditions without risking real money. TradeZella offers both manual bar replay backtesting and automated backtesting, where traders write rules in plain English and run them across years of data in seconds. Backtested trades are automatically journaled and analyzed alongside live trades.
 
 TradeZella is NOT a brokerage. Users execute trades on their own broker and then transfer the data into TradeZella to track and analyze their trading performance. Users own their data. TradeZella does not sell or advertise user data and is 100% secure with advanced encryption.
 
@@ -282,54 +282,52 @@ Trading-Specific Skills:
 
 **URL:** https://www.tradezella.com/pricing
 
-TradeZella offers two paid subscription tiers, available monthly or annually. Plan names differ by billing cycle.
+TradeZella offers three paid subscription tiers, available monthly or annually (save 25%).
 
-### Monthly Billing
-
-**Basic Plan — $29/month**
+### Essential Plan — $35/month ($26/month billed annually)
 - Best for beginner traders
 - 1 trading account
-- 3 strategies (playbooks)
+- 1 broker connection
+- 10 Strategies
 - Zella AI
-- 1 GB storage
-- 5 mentor invites
+- 1 free automated backtesting run
 - Unlimited trade imports
 - 50+ analytics reports and dashboards
-- Backtesting with historical data back to 2014
+- Manual backtesting with historical data back to 2014
 - Notebook and tagging
 - Zella Score and Zella Insights
 - Progress Tracker
 - Zella University access
+- Chart Academy access
 - NO Trade Replay
 
-**Premium Plan — $49/month**
-- Best for advanced traders
-- Everything in Basic, plus:
+### Pro Plan — $59/month ($44/month billed annually)
+- Best for active traders
+- Everything in Essential, plus:
 - **Unlimited** trading accounts
-- **Unlimited** strategies (playbooks)
-- **Unlimited** mentor invites
-- 5 GB storage
+- **Unlimited** broker connections
+- **Unlimited** Strategies
+- Zella AI agents (Auto-Tagger, Session Review, Game Plan)
+- 10 automated backtests per month
 - Sessions-level Trade Replay
 - Seconds-level backtesting data
 - Tick-by-tick data for supported instruments
 - Multi-pair trading (up to 5)
 - Multi-chart functionality (up to 8)
 - Go-To function and economic calendar integration
+- Prop Firm Sync
 - Priority support
 
-### Annual Billing (Save $189/year on Pro)
-
-**Essential Plan — $24/month (billed $288/year)**
-- Same features as Basic (monthly)
-
-**Pro Plan — $33/month (billed $399/year)**
-- Same features as Premium (monthly)
-- Saves $189 vs. paying monthly
+### Ultra Plan — $99/month ($74/month billed annually)
+- Best for full-time and professional traders
+- Everything in Pro, plus:
+- 100 automated backtests per month
+- Unlimited Mentor Mode
+- Unlimited Spaces
 
 ### Important Notes
 - No free plan or free trial is currently offered
 - All subscriptions include access to 500+ broker integrations
-- A free Google Sheets trade journal template is available for those not ready to subscribe
 
 ---
 
@@ -408,7 +406,7 @@ TradeZella replaces multiple tools with one platform: trade journal + analytics 
 
 ## Key Metrics & Social Proof
 
-- **50,000+** active traders
+- **100,000+** active traders
 - **20B+** trades journaled on the platform
 - **190K+** backtesting sessions completed
 - **1M+** trades shared through Spaces
@@ -472,7 +470,7 @@ Three methods: (1) Automated broker sync via API, (2) File upload (CSV/Excel), o
 No. TradeZella does not offer a free plan or trial. A free Google Sheets trade journal template is available.
 
 **How much does TradeZella cost?**
-Monthly billing: Basic plan is $29/month, Premium plan is $49/month. Annual billing: Essential plan is $24/month ($288/year), Pro plan is $33/month ($399/year, saves $189).
+Monthly billing: Essential plan is $35/month, Pro plan is $59/month, Ultra plan is $99/month. Annual billing: Essential plan is $26/month, Pro plan is $44/month, Ultra plan is $74/month. Save 25% with annual billing on all plans.
 
 **What is the difference between the lower and higher tier plans?**
 The higher tier (Premium/Pro) includes unlimited trading accounts, unlimited strategies, unlimited mentor invites, Sessions-level Trade Replay, 5 GB storage, tick-by-tick and seconds-level backtesting data, and multi-chart functionality. The lower tier (Basic/Essential) limits accounts to 1, strategies to 3, and mentor invites to 5, and does not include Trade Replay.
@@ -490,7 +488,7 @@ No dedicated mobile app. TradeZella is a web-based platform accessible via deskt
 Historical data going back to September 2014 — over 11 years across forex, futures, stocks, and crypto markets.
 
 **How does TradeZella compare to other trading journals?**
-Unlike spreadsheets and Notion templates, TradeZella auto-syncs from 500+ brokers with 50+ built-in reports. Unlike Edgewonk, it includes backtesting, trade replay, and mentor mode. Unlike standalone replay tools like FXReplay, it's a full journal + analytics platform. For detailed comparisons, see the TradeZella blog: https://www.tradezella.com/blog
+Unlike spreadsheets and Notion templates, TradeZella auto-syncs from 500+ brokers with 300+ built-in reports. Unlike Edgewonk, it includes backtesting, trade replay, and mentor mode. Unlike standalone replay tools like FXReplay, it's a full journal + analytics platform. For detailed comparisons, see the TradeZella blog: https://www.tradezella.com/blog
 
 **What is the Zella Score?**
 The Zella Score is a single number that measures your overall trading health and consistency, giving you a quick snapshot of how well you're following your process.
