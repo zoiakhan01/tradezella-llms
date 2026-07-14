@@ -38,9 +38,9 @@ TradeZella shows traders the metrics that matter — and the behaviors that lead
 
 ## By the Numbers
 
-- **50,000+** active traders on the platform
+- **100,000+** active traders on the platform
 - **500+** supported brokers and prop firms
-- **50+** performance reports and analytics
+- **300+** performance reports and analytics
 - **11+ years** of historical backtesting data
 - **4.8 / 5** rating from 800+ reviews
 - **20,000+** community members
