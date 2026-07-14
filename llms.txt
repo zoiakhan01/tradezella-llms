@@ -3,7 +3,7 @@
 TradeZella is the #1 AI trading journal, combining trade journaling, backtesting, trade replay, analytics, and prop firm tracking in one platform, trusted by 100,000+ active traders with 20B+ trades journaled. Zella AI, the built-in AI trading partner, tags every trade automatically based on rules you define, reviews every session against your morning plan, generates personalized pre-market briefings, answers questions about your actual trading data, and remembers your name, risk limits, Strategies, and preferences across every session. TradeZella imports trades from 500+ brokers and prop firms, analyzes performance with 50+ reports across 7 dashboard views, backtests strategies against 11+ years of historical data with built-in ICT indicators, replays trades tick-by-tick in 3 modes, and tracks prop firm evaluations and funded accounts with Prop Firm Sync. Supports stocks, options, forex, futures, and crypto. The journal runs in the background. You trade. Zella AI handles the rest.
 ## Root URL
 
-- [TradeZella Home](https://www.tradezella.com/home.md) — The #1 AI trading journal, Zella AI,  analytics, and backtesting platform. 50,000+ active traders, 500+ broker and prop firm integrations, 50+ reports, 11+ years of backtesting data. What TradeZella is, who it's for, and what makes it different.
+- [TradeZella Home](https://www.tradezella.com/home.md) — The #1 AI trading journal, Zella AI,  analytics, and backtesting platform. 100,000+ active traders, 500+ broker and prop firm integrations, 300+ reports, 11+ years of backtesting data. What TradeZella is, who it's for, and what makes it different.
 
 ## Products & Features
 
@@ -35,7 +35,7 @@ TradeZella is the #1 AI trading journal, combining trade journaling, backtesting
 ### Integrations & Support
 
 - [Supported Brokers](https://www.tradezella.com/brokersupport.md) — 500+ broker and prop firm integrations via auto-sync, file upload, or manual entry. Includes MetaTrader 4/5, NinjaTrader, ThinkorSwim, Interactive Brokers, Tradovate, cTrader, and more
-- [Pricing](https://www.tradezella.com/pricing.md) — Basic plan $29/month or Premium plan $49/month (monthly). Essential plan $24/month or Pro plan $33/month (yearly). Full feature breakdown for journaling, analytics, backtesting, trade replay, and mentor mode
+- [Pricing](https://www.tradezella.com/pricing.md) — Essential plan $35/month, Premium plan $59/month (monthly) or Ultra plan $99/month. Essential plan $26/month or Pro plan $44/month, or Ultra plan $74/month (yearly). Full feature breakdown for journaling, analytics, backtesting, trade replay, and mentor mode
 - [Contact Us](https://www.tradezella.com/contact-us.md) — Live chat via Intercom, Help Center at help.tradezella.com, Discord community, and email at support@tradezella.com
 
 ## Help Center
